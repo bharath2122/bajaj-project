@@ -5,8 +5,8 @@ const app = express();
 app.use(bodyParser.json());
 
 // Replace with your details
-const FULL_NAME = "bharath_krishna";  // must be lowercase
-const DOB = "29082005";               // ddmmyyyy format
+const FULL_NAME = "bharath krishna siva sri sai kumar";  
+const DOB = "13122004";             
 const EMAIL = "yourmail@vitap.ac.in";
 const ROLL_NUMBER = "22BCE9454";
 
