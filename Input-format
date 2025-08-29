@@ -1,0 +1,4 @@
+curl -X POST \
+  -H "Content-Type: application/json" \
+  -d '{"data": ["a", "1", "334", "4", "R", "$"]}' \
+  http://localhost:3000/bfhl
